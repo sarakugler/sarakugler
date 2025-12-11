@@ -6,10 +6,10 @@
 
 I'm a passionate bioinformatics and computational biology graduate student with experience in Linux, R, Python, and HPC computing. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: git/GitHub, SQL
+- 🌱 Currently learning: SQL
 - 🔭 Working on: My capstone research project (Differential gene expression of ovarian cancer cells exposed to varying concentrations of microplastics)
 - 🌍 Languages: R, Python, Bash
-- 📫 How to reach me: kugle042@umn.edu
+- 📫 How to reach me: sarakugler26@gmail.com
 
 ## My Skills 🧠
 
